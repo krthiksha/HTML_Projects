@@ -3,12 +3,13 @@
 🚀 **Live Demo**: [Click here](https://krithiksha.neocities.org/my_html_project_1/HTML_project_1)
 
 ## Description
-This project is a simple web application for XYZ...
+This project is a simple web application designed as an HTML tutorial for beginners who want to start coding. It provides a basic introduction to HTML by demonstrating commonly used elements in a structured webpage.
 
 ## Features
-✅ Feature 1  
-✅ Feature 2  
-✅ Feature 3  
+✅ Uses essential HTML tags to build the webpage
+✅ Includes images, links, and paragraphs
+✅ Demonstrates lists, headings, and text formatting
+✅ Shows center alignment techniques
 
 ## How to Run
 1. Clone the repository.  
