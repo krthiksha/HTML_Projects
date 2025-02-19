@@ -10,6 +10,7 @@ This project is a simple web application designed as an HTML tutorial for beginn
 ✅ Includes images, links, and paragraphs 
 ✅ Demonstrates lists, headings, and text formatting 
 ✅ Shows center alignment techniques 
+✅ Hosted online 
 
 ## How to Run
 1. Clone the repository.  
