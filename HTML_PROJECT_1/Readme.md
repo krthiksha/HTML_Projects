@@ -24,7 +24,8 @@ This project is a simple web application designed as an HTML tutorial for beginn
 
 ![image](https://github.com/user-attachments/assets/0d8105af-df01-4ec0-972c-cbb053e392b9)
 ![image](https://github.com/user-attachments/assets/9c24209d-d099-40d7-b060-fbae966ffbe6)
-![image](https://github.com/user-attachments/assets/60e024e0-1507-4f15-ad23-bcfe9d93ffc3)
+![image](https://github.com/user-attachments/assets/52d84a5a-bc2e-4812-a527-b33ee8acf779)
+
 
 
 
