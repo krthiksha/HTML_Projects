@@ -6,10 +6,10 @@
 This project is a simple web application designed as an HTML tutorial for beginners who want to start coding. It provides a basic introduction to HTML by demonstrating commonly used elements in a structured webpage.
 
 ## Features
-- [x] Uses essential HTML tags to build the webpage
-✅ Includes images, links, and paragraphs
-✅ Demonstrates lists, headings, and text formatting
-✅ Shows center alignment techniques
+✅ Uses essential HTML tags to build the webpage 
+✅ Includes images, links, and paragraphs 
+✅ Demonstrates lists, headings, and text formatting 
+✅ Shows center alignment techniques 
 
 ## How to Run
 1. Clone the repository.  
